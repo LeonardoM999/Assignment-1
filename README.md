@@ -1,2 +1,2 @@
-# NLP-project
-Prof Torroni's assignements and final project for the Natural Language Processing course
+# NLP-assignment 1
+Prof Torroni's first assignement for the Natural Language Processing course
